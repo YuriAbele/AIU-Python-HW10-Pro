@@ -2,10 +2,10 @@
 	"version": "0.1.0",
 	"configurations": [
 		{
-			"name": "tests.py",
+			"name": "main.py",
 			"type": "debugpy",
 			"request": "launch",
-			"program": "${workspaceFolder}/tests.py",
+			"program": "${workspaceFolder}/main.py",
 			"console": "integratedTerminal"
 		}
 	]
