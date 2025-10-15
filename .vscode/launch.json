@@ -1,0 +1,12 @@
+{
+	"version": "0.1.0",
+	"configurations": [
+		{
+			"name": "tests.py",
+			"type": "debugpy",
+			"request": "launch",
+			"program": "${workspaceFolder}/tests.py",
+			"console": "integratedTerminal"
+		}
+	]
+}
